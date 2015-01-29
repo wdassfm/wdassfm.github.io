@@ -19,7 +19,7 @@ paginate:	5
 
 # Custom vars
 icon:		/assets/images/cloud.jpg
-cover:		/assets/images/cover.png
+cover:		/assets/images/zhong.jpg
 
 social:
   - icon:	twitter
