@@ -18,8 +18,8 @@ author:
 paginate:	5
 
 # Custom vars
-icon:		/assets/images/sleep.jpg
-cover:		/assets/images/shine.jpg
+icon:		/assets/images/cloud.jpg
+cover:		/assets/images/cover.png
 
 social:
   - icon:	twitter
