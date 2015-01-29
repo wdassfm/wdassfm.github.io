@@ -1,24 +1,24 @@
 # Dependencies
 markdown:	redcarpet
-pygments:	true
+highlighter:	true
 
 # Permalinks
 permalink:	/blog/:title
 
 # Setup
-title:		Thinny
+title:		Sleeping in Cloud
 tagline:	'blog'
-description:	'My personal blog.'
-url:		http://camporez.com
+description:	'Iris Zhou"s personal blog.'
+url:		http://www.sleepinginclouds.xyz
 
 author:
-  name:		'Ian Camporez Brunelli'
-  url:		https://google.com/+IanCamporezBrunelli
+  name:		'Iris Zhou'
+  url:		http://www.sleepinginclouds.xyz
 
 paginate:	5
 
 # Custom vars
-icon:		/assets/images/icon.png
+icon:		/assets/images/cloud.jpg
 cover:		/assets/images/cover.jpg
 
 social:
